@@ -1,0 +1,12 @@
+CategoryID,CategoryName,Active
+5001,Cleaning & Household,Yes
+5002,"Kitchen, Garden & Pets",Yes
+5003,"Foodgrains, Oil & Masala",Yes
+5004,Gourmet & World Food,Yes
+5005,Baby Care,No
+5006,Snacks & Branded Foods,Yes
+5007,"Bakery, Cakes & Dairy",Yes
+5008,Beauty & Hygiene,Yes
+5009,Beverages,Yes
+5010,"Eggs, Meat & Fish",No
+5011,Fruits & Vegetables,Yes
